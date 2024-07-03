@@ -1,0 +1,19 @@
+/* productcard.css */
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+  }
+  
+  .product-card h3 {
+    margin: 0 0 10px;
+  }
+  
+  .product-card p {
+    margin: 5px 0;
+  }
+  
